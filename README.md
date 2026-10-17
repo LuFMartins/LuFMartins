@@ -70,5 +70,5 @@ Tenho aprofundado meus conhecimentos em **React, TypeScript, componentização, 
 Estou aberto a oportunidades de **Front-End Júnior**, colaboração em projetos e troca de conhecimentos com a comunidade de tecnologia.
 
 📫 **[Entre em contato pelo LinkedIn](https://www.linkedin.com/in/luiz-martins-289088230/)**
-
-<sub>🎸 Fora do código, a música também faz parte da minha vida.</sub>
+ou
+📫 **[Entre em contato pelo WhatsApp](https://api.whatsapp.com/send/?phone=11980331811)**
