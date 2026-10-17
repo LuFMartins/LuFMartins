@@ -71,4 +71,5 @@ Estou aberto a oportunidades de **Front-End Júnior**, colaboração em projetos
 
 📫 **[Entre em contato pelo LinkedIn](https://www.linkedin.com/in/luiz-martins-289088230/)**
 ou
-📫 **[Entre em contato pelo WhatsApp](https://api.whatsapp.com/send/?phone=11980331811)**
+<img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/347668e1-2e14-4434-9710-a3312860a031" />
+ **[Entre em contato pelo WhatsApp](https://api.whatsapp.com/send/?phone=11980331811)**
