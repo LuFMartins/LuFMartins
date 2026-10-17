@@ -59,7 +59,7 @@ Interface para consultar perfis e repositórios pela **API pública do GitHub**,
 
 `React` · `TypeScript` · `Fetch API` · `Vite`
 
-**Outros projetos:** [Bloco do Beco — React Native](https://github.com/LuFMartins/Bloco-do-Beco-ReactNative) · [Explorar todos os repositórios](https://github.com/LuFMartins?tab=repositories)
+**Outros projetos:** [Explorar todos os repositórios](https://github.com/LuFMartins?tab=repositories)
 
 ### 📚 Aprendizado contínuo
 
